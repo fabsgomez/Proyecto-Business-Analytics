@@ -1,0 +1,148 @@
+﻿fecha,insumo_estandar,establecimiento,distrito,precio_soles
+2026-09-07,ajo,Verdulería de barrio - Barranco (puesto 2),Barranco,9.38
+2026-09-14,ajo,Verdulería de barrio - Barranco (puesto 3),Barranco,8.48
+2026-09-15,ajo,Verdulería de barrio - Barranco (puesto 5),Barranco,8.84
+2026-09-07,ajo,Bioferia Miraflores - Parque Reducto,Miraflores,8.18
+2026-09-09,ajo,Bioferia Miraflores - Parque Reducto,Miraflores,9.99
+2026-09-15,ajo,Verdulería de barrio - Miraflores (puesto D5),Miraflores,11.48
+2026-09-12,ajo,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,8.02
+2026-09-14,ajo,Mercado N° 2 de Surquillo - Puesto 27,Surquillo,10.98
+2026-09-16,ajo,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,7.57
+2026-09-08,apio,Verdulería de barrio - Barranco (puesto 1),Barranco,3.9
+2026-09-14,apio,Bioferia Barranco - Jr. Unión,Barranco,4.6
+2026-09-16,apio,Verdulería de barrio - Barranco (puesto 3),Barranco,4.4
+2026-09-10,apio,Verdulería de barrio - Miraflores (puesto B7),Miraflores,4.73
+2026-09-15,apio,Verdulería de barrio - Miraflores (puesto D5),Miraflores,4.99
+2026-09-15,apio,Verdulería de barrio - Miraflores (puesto A3),Miraflores,4.76
+2026-09-07,apio,Mercado N° 2 de Surquillo - Puesto 94,Surquillo,6.26
+2026-09-11,apio,Mercado N° 2 de Surquillo - Puesto 89,Surquillo,5.07
+2026-09-14,apio,Mercado N° 2 de Surquillo - Puesto 101,Surquillo,5.06
+2026-09-09,camote_amarillo,Verdulería de barrio - Barranco (puesto 2),Barranco,4.13
+2026-09-14,camote_amarillo,Verdulería de barrio - Barranco (puesto 1),Barranco,3.84
+2026-09-15,camote_amarillo,Verdulería de barrio - Barranco (puesto 3),Barranco,4.46
+2026-09-08,camote_amarillo,Verdulería de barrio - Miraflores (puesto F8),Miraflores,4.36
+2026-09-10,camote_amarillo,Verdulería de barrio - Miraflores (puesto F8),Miraflores,3.98
+2026-09-13,camote_amarillo,Verdulería de barrio - Miraflores (puesto B7),Miraflores,3.07
+2026-09-07,camote_amarillo,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,5.31
+2026-09-14,camote_amarillo,Mercado N° 2 de Surquillo - Puesto 171,Surquillo,2.99
+2026-09-15,camote_amarillo,Mercado N° 2 de Surquillo - Puesto 171,Surquillo,2.78
+2026-09-10,cebolla_china,Verdulería de barrio - Barranco (puesto 4),Barranco,7.52
+2026-09-11,cebolla_china,Verdulería de barrio - Barranco (puesto 2),Barranco,8.16
+2026-09-14,cebolla_china,Verdulería de barrio - Barranco (puesto 5),Barranco,7.18
+2026-09-07,cebolla_china,Verdulería de barrio - Miraflores (puesto B7),Miraflores,6.6
+2026-09-12,cebolla_china,Verdulería de barrio - Miraflores (puesto C2),Miraflores,7.66
+2026-09-13,cebolla_china,Verdulería de barrio - Miraflores (puesto C2),Miraflores,8.24
+2026-09-14,cebolla_china,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,7.66
+2026-09-15,cebolla_china,Mercado N° 2 de Surquillo - Puesto 171,Surquillo,8.08
+2026-09-15,cebolla_china,Mercado N° 2 de Surquillo - Puesto 145,Surquillo,4.95
+2026-09-09,cebolla_roja,Verdulería de barrio - Barranco (puesto 4),Barranco,3.82
+2026-09-09,cebolla_roja,Bioferia Barranco - Jr. Unión,Barranco,4.25
+2026-09-13,cebolla_roja,Verdulería de barrio - Barranco (puesto 1),Barranco,4.2
+2026-09-09,cebolla_roja,Verdulería de barrio - Miraflores (puesto E1),Miraflores,4.55
+2026-09-12,cebolla_roja,Bioferia Miraflores - Parque Reducto,Miraflores,3.65
+2026-09-14,cebolla_roja,Verdulería de barrio - Miraflores (puesto E1),Miraflores,3.6
+2026-09-07,cebolla_roja,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,3.06
+2026-09-10,cebolla_roja,Mercado N° 2 de Surquillo - Puesto 45,Surquillo,4.55
+2026-09-11,cebolla_roja,Mercado N° 2 de Surquillo - Puesto 94,Surquillo,4.05
+2026-09-10,espinaca,Verdulería de barrio - Barranco (puesto 5),Barranco,5.7
+2026-09-11,espinaca,Verdulería de barrio - Barranco (puesto 5),Barranco,6.56
+2026-09-15,espinaca,Verdulería de barrio - Barranco (puesto 5),Barranco,7.13
+2026-09-15,espinaca,Verdulería de barrio - Miraflores (puesto E1),Miraflores,7.17
+2026-09-16,espinaca,Verdulería de barrio - Miraflores (puesto D5),Miraflores,7.13
+2026-09-16,espinaca,Verdulería de barrio - Miraflores (puesto A3),Miraflores,6.65
+2026-09-08,espinaca,Mercado N° 2 de Surquillo - Puesto 145,Surquillo,6.11
+2026-09-12,espinaca,Mercado N° 2 de Surquillo - Puesto 171,Surquillo,5.41
+2026-09-13,espinaca,Mercado N° 2 de Surquillo - Puesto 145,Surquillo,6.41
+2026-09-11,limon,Verdulería de barrio - Barranco (puesto 6),Barranco,8.81
+2026-09-13,limon,Verdulería de barrio - Barranco (puesto 4),Barranco,8.58
+2026-09-14,limon,Bioferia Barranco - Jr. Unión,Barranco,8.45
+2026-09-08,limon,Verdulería de barrio - Miraflores (puesto F8),Miraflores,8.47
+2026-09-11,limon,Verdulería de barrio - Miraflores (puesto A3),Miraflores,8.05
+2026-09-12,limon,Verdulería de barrio - Miraflores (puesto C2),Miraflores,7.84
+2026-09-08,limon,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,7.34
+2026-09-14,limon,Mercado N° 2 de Surquillo - Puesto 203,Surquillo,7.71
+2026-09-16,limon,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,7.11
+2026-09-08,maiz_morado,Verdulería de barrio - Barranco (puesto 6),Barranco,4.42
+2026-09-09,maiz_morado,Verdulería de barrio - Barranco (puesto 6),Barranco,6.32
+2026-09-14,maiz_morado,Verdulería de barrio - Barranco (puesto 5),Barranco,4.65
+2026-09-07,maiz_morado,Verdulería de barrio - Miraflores (puesto B7),Miraflores,6.3
+2026-09-13,maiz_morado,Verdulería de barrio - Miraflores (puesto F8),Miraflores,5.01
+2026-09-16,maiz_morado,Verdulería de barrio - Miraflores (puesto F8),Miraflores,6.18
+2026-09-10,maiz_morado,Mercado N° 2 de Surquillo - Puesto 203,Surquillo,5.51
+2026-09-10,maiz_morado,Mercado N° 2 de Surquillo - Puesto 203,Surquillo,5.71
+2026-09-16,maiz_morado,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,5.62
+2026-09-08,olluco,Verdulería de barrio - Barranco (puesto 2),Barranco,4.07
+2026-09-08,olluco,Verdulería de barrio - Barranco (puesto 4),Barranco,3.75
+2026-09-10,olluco,Verdulería de barrio - Barranco (puesto 4),Barranco,4.29
+2026-09-12,olluco,Bioferia Miraflores - Parque Reducto,Miraflores,4.77
+2026-09-14,olluco,Verdulería de barrio - Miraflores (puesto E1),Miraflores,4.17
+2026-09-16,olluco,Verdulería de barrio - Miraflores (puesto B7),Miraflores,4.13
+2026-09-09,olluco,Mercado N° 2 de Surquillo - Puesto 218,Surquillo,3.8
+2026-09-11,olluco,Mercado N° 2 de Surquillo - Puesto 45,Surquillo,3.92
+2026-09-13,olluco,Mercado N° 2 de Surquillo - Puesto 45,Surquillo,4.08
+2026-09-15,olluco,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,3.9
+2026-09-08,papa_amarilla,Verdulería de barrio - Barranco (puesto 6),Barranco,5.76
+2026-09-11,papa_amarilla,Verdulería de barrio - Barranco (puesto 5),Barranco,6.58
+2026-09-16,papa_amarilla,Verdulería de barrio - Barranco (puesto 5),Barranco,5.71
+2026-09-11,papa_amarilla,Verdulería de barrio - Miraflores (puesto D5),Miraflores,5.32
+2026-09-11,papa_amarilla,Verdulería de barrio - Miraflores (puesto D5),Miraflores,6.04
+2026-09-13,papa_amarilla,Verdulería de barrio - Miraflores (puesto D5),Miraflores,5.46
+2026-09-09,papa_amarilla,Mercado N° 2 de Surquillo - Puesto 145,Surquillo,6.39
+2026-09-13,papa_amarilla,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,6.02
+2026-09-14,papa_amarilla,Mercado N° 2 de Surquillo - Puesto 94,Surquillo,5.69
+2026-09-09,papa_blanca,Verdulería de barrio - Barranco (puesto 2),Barranco,2.99
+2026-09-10,papa_blanca,Bioferia Barranco - Jr. Unión,Barranco,3.03
+2026-09-11,papa_blanca,Verdulería de barrio - Barranco (puesto 4),Barranco,2.47
+2026-09-11,papa_blanca,Verdulería de barrio - Miraflores (puesto A3),Miraflores,2.89
+2026-09-11,papa_blanca,Bioferia Miraflores - Parque Reducto,Miraflores,4.66
+2026-09-14,papa_blanca,Bioferia Miraflores - Parque Reducto,Miraflores,3.65
+2026-09-13,papa_blanca,Mercado N° 2 de Surquillo - Puesto 203,Surquillo,2.99
+2026-09-13,papa_blanca,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,3.3
+2026-09-15,papa_blanca,Mercado N° 2 de Surquillo - Puesto 94,Surquillo,2.52
+2026-09-07,papa_huayro,Verdulería de barrio - Barranco (puesto 2),Barranco,5.38
+2026-09-12,papa_huayro,Bioferia Barranco - Jr. Unión,Barranco,3.81
+2026-09-13,papa_huayro,Verdulería de barrio - Barranco (puesto 4),Barranco,4.28
+2026-09-08,papa_huayro,Verdulería de barrio - Miraflores (puesto A3),Miraflores,5.31
+2026-09-10,papa_huayro,Verdulería de barrio - Miraflores (puesto B7),Miraflores,5.57
+2026-09-11,papa_huayro,Verdulería de barrio - Miraflores (puesto C2),Miraflores,5.24
+2026-09-08,papa_huayro,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,3.91
+2026-09-11,papa_huayro,Mercado N° 2 de Surquillo - Puesto 45,Surquillo,4.02
+2026-09-15,papa_huayro,Mercado N° 2 de Surquillo - Puesto 218,Surquillo,4.76
+2026-09-10,poro,Verdulería de barrio - Barranco (puesto 2),Barranco,4.61
+2026-09-11,poro,Verdulería de barrio - Barranco (puesto 1),Barranco,3.05
+2026-09-13,poro,Verdulería de barrio - Barranco (puesto 1),Barranco,4.81
+2026-09-10,poro,Verdulería de barrio - Miraflores (puesto D5),Miraflores,4.69
+2026-09-11,poro,Verdulería de barrio - Miraflores (puesto C2),Miraflores,4.72
+2026-09-14,poro,Verdulería de barrio - Miraflores (puesto B7),Miraflores,4.25
+2026-09-15,poro,Verdulería de barrio - Miraflores (puesto A3),Miraflores,3.95
+2026-09-16,poro,Verdulería de barrio - Miraflores (puesto C2),Miraflores,3.29
+2026-09-08,poro,Mercado N° 2 de Surquillo - Puesto 63,Surquillo,3.37
+2026-09-12,poro,Mercado N° 2 de Surquillo - Puesto 89,Surquillo,2.91
+2026-09-13,poro,Mercado N° 2 de Surquillo - Puesto 27,Surquillo,4.27
+2026-09-08,vainita,Verdulería de barrio - Barranco (puesto 6),Barranco,4.9
+2026-09-11,vainita,Verdulería de barrio - Barranco (puesto 6),Barranco,5.15
+2026-09-11,vainita,Verdulería de barrio - Barranco (puesto 1),Barranco,5.77
+2026-09-07,vainita,Verdulería de barrio - Miraflores (puesto A3),Miraflores,5.68
+2026-09-11,vainita,Verdulería de barrio - Miraflores (puesto B7),Miraflores,6.19
+2026-09-15,vainita,Verdulería de barrio - Miraflores (puesto A3),Miraflores,6.25
+2026-09-11,vainita,Mercado N° 2 de Surquillo - Puesto 89,Surquillo,5.17
+2026-09-12,vainita,Mercado N° 2 de Surquillo - Puesto 45,Surquillo,5.63
+2026-09-12,vainita,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,6.01
+2026-09-07,zanahoria,Bioferia Barranco - Jr. Unión,Barranco,2.41
+2026-09-12,zanahoria,Bioferia Barranco - Jr. Unión,Barranco,2.03
+2026-09-12,zanahoria,Verdulería de barrio - Barranco (puesto 1),Barranco,2.29
+2026-09-12,zanahoria,Verdulería de barrio - Miraflores (puesto E1),Miraflores,2.71
+2026-09-14,zanahoria,Verdulería de barrio - Miraflores (puesto B7),Miraflores,2.67
+2026-09-14,zanahoria,Verdulería de barrio - Miraflores (puesto F8),Miraflores,2.12
+2026-09-10,zanahoria,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,2.28
+2026-09-11,zanahoria,Mercado N° 2 de Surquillo - Puesto 203,Surquillo,2.37
+2026-09-16,zanahoria,Mercado N° 2 de Surquillo - Puesto 132,Surquillo,2.77
+2026-09-07,zapallo_macre,Verdulería de barrio - Barranco (puesto 5),Barranco,2.78
+2026-09-11,zapallo_macre,Verdulería de barrio - Barranco (puesto 4),Barranco,2.7
+2026-09-16,zapallo_macre,Verdulería de barrio - Barranco (puesto 3),Barranco,3.23
+2026-09-08,zapallo_macre,Verdulería de barrio - Miraflores (puesto B7),Miraflores,3.06
+2026-09-09,zapallo_macre,Verdulería de barrio - Miraflores (puesto B7),Miraflores,2.96
+2026-09-12,zapallo_macre,Verdulería de barrio - Miraflores (puesto E1),Miraflores,3.33
+2026-09-07,zapallo_macre,Mercado N° 2 de Surquillo - Puesto 94,Surquillo,2.74
+2026-09-13,zapallo_macre,Mercado N° 2 de Surquillo - Puesto 77,Surquillo,2.62
+2026-09-16,zapallo_macre,Mercado N° 2 de Surquillo - Puesto 218,Surquillo,3.08
